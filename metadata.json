@@ -1,0 +1,6 @@
+{
+  "name": "AI Mock Interview Simulator",
+  "description": "An AI-powered interview practice platform for students and job seekers powered by Google Gemini, featuring realistic adaptive questions, rubric-based evaluation, detailed performance reports, and an interactive Prompt Engineering Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
